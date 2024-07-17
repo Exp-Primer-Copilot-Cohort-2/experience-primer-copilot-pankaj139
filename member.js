@@ -1,4 +1,4 @@
-function skillMembers() {
+function skillsMember() {
     let members = [
         {name: 'John', skill: 'JavaScript'},
         {name: 'Jane', skill: 'JavaScript'},
